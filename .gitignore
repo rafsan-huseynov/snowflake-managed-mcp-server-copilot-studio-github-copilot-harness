@@ -1,0 +1,9 @@
+# secrets & local config
+.env
+*.local.json
+# network captures (can contain tokens)
+*.har
+# os / editor
+.DS_Store
+node_modules/
+.vscode/
